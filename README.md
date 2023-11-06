@@ -15,3 +15,4 @@
 - ### **git diff**: Comando para mostrar as linhas que foram alteradas no repositório
 - ### **git commit**: Comando para salvar as alterações após o git add
 - ### **git push**: Comando para enviar as alterações para o GitHub
+- ### **git restore**: Comando para reverter as alterações que ainda não foram commitadas
