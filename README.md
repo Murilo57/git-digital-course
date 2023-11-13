@@ -16,3 +16,5 @@
 - ### **git commit**: Comando para salvar as alterações após o git add
 - ### **git push**: Comando para enviar as alterações para o GitHub
 - ### **git restore**: Comando para reverter as alterações que ainda não foram commitadas
+
+- ### **git log**: Comando para trazer o historico dos commits
